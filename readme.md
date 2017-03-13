@@ -1,4 +1,4 @@
 Pozdrav!
 bla bla
-dobro jutro
+dobro jutro tugo
 Hello curke!
